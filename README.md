@@ -10,3 +10,6 @@
 - Game speeds up as you score higher
 
 - Simple and fun – no libraries or APIs
+
+![image](https://github.com/user-attachments/assets/cd8e617c-61f1-4d3d-9992-ba7e343c39f9)
+
